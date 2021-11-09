@@ -14,9 +14,9 @@ jvm（java虚拟机）
 
 2. JDK（Java DEvelopment Kit）java开发工具包
 
-   编译工具（javac.exe）和运行工具（java.exe）
+   编译工具（javac.exe）和运行工具（java.exe）![image-20210112213857449](java基础.assets/image-20210112213857449.png)
 
-![ ](/Users/chenxl/Library/Application Support/typora-user-images/image-20210112213857449.png)
+
 
 ### 3、JDK下载和安装
 
